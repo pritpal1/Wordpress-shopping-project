@@ -1,0 +1,192 @@
+.ccfwoo-settings .cc-pro-label {
+  display: inline-block;
+  background: red;
+  padding: 2px 5px;
+  color: #ffffff;
+  margin: 0 7px;
+}
+
+.ccfwoo-settings .cc-pro-label a {
+  color: white;
+  text-decoration: none;
+}
+
+.ccfwoo-settings h2, .ccfwoo-settings h3 {
+  font-size: 1.3em;
+  margin: 2em 0 1em 0;
+  border-bottom: 1px solid #c1c1c1;
+  padding-bottom: 10px;
+  max-width: 800px;
+}
+
+.ccfwoo-main-section h2, .ccfwoo-main-section h3 {
+  font-size: 1.3em;
+  margin: 1em 0 -1em 0;
+  background: white;
+  padding-bottom: 20px;
+  padding-top: 15px;
+}
+
+.ccfwoo-main-section {
+  width: 80%;
+  float: left;
+  margin-right: 1%;
+}
+
+.ccfwoo-main-section select#white_label_categories {
+  max-width: 380px;
+  width: -webkit-fill-available;
+  display: block;
+  height: fit-content;
+  min-height: 120px;
+}
+
+.ccfwoo-main-section table.form-table {
+  background: #ffffff;
+  border-top: 1px solid gainsboro;
+}
+
+.ccfwoo-main-section th, .ccfwoo-main-section td, .ccfwoo-main-section h2, .ccfwoo-main-section h3 {
+  padding-left: 20px;
+}
+
+.ccfwoo-main-section .form-table td {
+  line-height: 3;
+}
+
+.ccfwoo-upgrade-pro h2 {
+  text-align: center;
+}
+
+.ccfwoo-upgrade-pro {
+  width: 17%;
+  float: left;
+  margin-top: 16px;
+  padding: 0 1%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #ffffff;
+}
+
+.ccfwoo-upgrade-pro h2 {
+  text-align: center;
+}
+
+.ccfwoo-main-section input[type=radio], .ccfwoo-main-section input[type=checkbox] {
+  border: 1px solid #b4b9be;
+  background: #fff;
+  color: #555;
+  clear: none;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 0;
+  height: 25px;
+  margin: -4px 4px 0 0;
+  outline: 0;
+  padding: 4.5px !important;
+  text-align: center;
+  vertical-align: middle;
+  width: 25px;
+  min-width: 25px;
+  -webkit-appearance: none;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, .1);
+  transition: .05s border-color ease-in-out;
+}
+
+/* New */
+
+p.description {
+  margin-top: 4px;
+  margin-bottom: 0;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+input[type=number] {
+  width: 70px;
+}
+
+input[type=textfield], input[type=url], input[type=tel], input[type=url] {
+  width: 400px;
+}
+
+input, select {
+  margin: 1px;
+  padding: 8px 5px;
+}
+
+input[type=textfield] {
+  width: 400px;
+}
+
+input[type=text] {
+  width: 400px;
+}
+
+input[type=text], input[type=search], input[type=radio], input[type=tel], input[type=time], input[type=url], select, textarea {
+  width: 300px;
+}
+
+h1.ccfwoo-title {
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.ccfwoo-main-section ul {
+  list-style: initial;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+.ccfwoo-admin-preview {
+  background: white;
+  padding: 5px 10px;
+}
+
+h2.ccfwoo-pro-section {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.ccfwoo-pro-callback h2 {
+  border-bottom: 1px solid gainsboro;
+  margin: 15px 0;
+}
+
+tr.ccfwoo-color input {
+  width: 70px;
+  height: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+.ccfwoo-main-section .form-table th {
+  vertical-align: middle;
+}
+
+.ccfwoo-main-section .form-table {
+  border-collapse: initial;
+}
+
+.ccfwoo-main-section .form-table th {
+    vertical-align: middle;
+  }
+
+tr.ccfwoo-wide th {
+    width: fit-content;
+}
+
+
+.ccfwoo-main-section tr {
+      display: inherit;
+      clear: both;
+}
+
+
+tr.ccfwoo-wide {
+  display: inline-block;
+}
+
+.ccfwoo-main-section  .form-table {
+    border-collapse: initial;
+  }
